@@ -147,6 +147,17 @@ const projects = ref<Project[]>([
         ],
         'link': 'https://github.com/Pascu-Victor/toylang',
     },
+    {
+        title: 'Personal Portfolio',
+        tagline: 'My Personal Website & Portfolio',
+        icon: 'web',
+        highlights: [
+            'Vue.js 3 with TypeScript and Vue Router',
+            'Responsive design with modern CSS techniques',
+            'Showcase of projects, skills, and contact information',
+        ],
+        link: 'https://github.com/Pascu-Victor/portfolio-site',
+    }
 ])
 
 </script>
